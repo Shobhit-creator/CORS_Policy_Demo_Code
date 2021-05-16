@@ -1,0 +1,17 @@
+[
+    {
+        "AllowedHeaders": [
+            "*"
+        ],
+        "AllowedMethods": [
+            "PUT",
+            "POST",
+            "DELETE",
+            "GET"
+        ],
+        "AllowedOrigins": [
+            "https://ibfbucket1234.s3.ap-south-1.amazonaws.com"
+        ],
+        "ExposeHeaders": []
+    }
+]
