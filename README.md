@@ -6,7 +6,7 @@
 ## Uploaded the extra.html to the bucket in singapur region and make bucket and objects public
 ![image](https://user-images.githubusercontent.com/65528935/118406330-3b88ba80-b699-11eb-877d-abc57269cfbc.png)
 
-The extra.html is the html page whose data we want to sync in the index.html so we will give its endpoint url to the fetch function by replacing cross_region_bucket_url.
+The extra.html is the html page whose data we want to sync in the index.html so we will give its endpoint url to the fetch function by replacing extra.html.
 * Copy the url as below.
 ![image](https://user-images.githubusercontent.com/65528935/118406678-6fb0ab00-b69a-11eb-9e66-8395588c9539.png)
 * Now copy the url of the index.html as below.
